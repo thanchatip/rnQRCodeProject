@@ -1,1 +1,1 @@
-# rnQRCodeProject
+# projApp
